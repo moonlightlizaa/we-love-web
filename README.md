@@ -2,7 +2,7 @@
 
 Er worden (bijna) elke week we love web sessies gegeven waar er een spreker word uitgenodigd om over verschillende onderwerpen te praten op het gebied van design/development!
 
-In mijn wiki documenteer ik de we love web sessies waar ik bij was. 
+In mijn <a href="https://github.com/moonlightlizaa/we-love-web/wiki">wiki</a> documenteer ik de we love web sessies waar ik bij was. 
 
 
 ## Licentie
