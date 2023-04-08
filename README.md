@@ -1,5 +1,8 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# We Love Web
 
+Er worden (bijna) elke week we love web sessies gegeven waar er een spreker word uitgenodigd om over verschillende onderwerpen te praten op het gebied van design/development!
+
+In mijn wiki documenteer ik de we love web sessies waar ik bij was. 
 
 
 ## Licentie
